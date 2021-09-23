@@ -1,4 +1,5 @@
 PROJECT STEM for AP CSP
+
 AP Computer Science Principles (AP CSP) is a full-year, rigorous course that introduces students
 to the foundational concepts of computer science and explores the impact computing and
 technology have on our society. The course covers a broad range of foundational topics
@@ -46,6 +47,7 @@ is a text-based language with easy to read and write syntax - perfect for beginn
 programmers.
 
 BJC for AP CSP
+
 The authors of the BJC curriculum think that computer programming is one of the most satisfying of all human activities—it's generally fun (when it's not frustrating because of a bug you can't find), but it's what Seymour Papert called "hard fun," mind-stretching and, because the authority is the computer rather than the teacher, a big change from jumping through hoops. It's a game of skill, like chess, but without the competitive aspect, and with useful results beyond the act of programming itself. That's the best reason to study computer science, and we want all kids, not just the ones who fit the nerd stereotype, to experience our joy in programming.
 
 We also think that computer programs (not just the pictures that programs can produce) can be things of beauty. Yes, programs can also be ugly, if they're long sequences of assignment statements with no structure. But good programmers develop a sense of programming aesthetics. This is one reason why it's so important to us to include recursion in the curriculum: A recursive program can generate a complex, intricate computing process from a very small piece of code, and we remember that revelation as the moment when we discovered the beauty of programs.
